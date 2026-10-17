@@ -3,8 +3,12 @@
 </a>
 
 <p align="center">
-  <a href="https://github.com/Mohaiminul69?tab=repositories"><img src="https://img.shields.io/badge/./view--projects-ff3b5c?style=for-the-badge&labelColor=0e0e10" alt="View projects" /></a>
-  <a href="https://mohaiminul69.github.io/portfolio/"><img src="https://img.shields.io/badge/./portfolio-0e0e10?style=for-the-badge&labelColor=26262a" alt="Portfolio" /></a>
+  <br />
+  <a href="https://github.com/Mohaiminul69?tab=repositories"><img src="./assets/links/cta-view-projects.svg" height="44" alt="View projects" /></a>
+  &nbsp;&nbsp;
+  <a href="https://mohaiminul69.github.io/portfolio/"><img src="./assets/links/cta-portfolio.svg" height="44" alt="Portfolio" /></a>
+  <br />
+  <br />
   <img src="https://komarev.com/ghpvc/?username=Mohaiminul69&label=visitors&color=ff3b5c&style=for-the-badge" alt="Profile visitors" />
 </p>
 
