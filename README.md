@@ -56,13 +56,15 @@
 
 <br />
 
-<a href="https://github.com/Mohaiminul69">
+<a href="https://mohaiminul69.github.io/portfolio/">
   <img src="./assets/contact.svg" width="100%" alt="Let's build something — open to collaboration, interesting projects and new opportunities." />
 </a>
 
 <p align="center">
-  <a href="https://github.com/Mohaiminul69"><img src="https://img.shields.io/badge/github-Mohaiminul69-0e0e10?style=for-the-badge&logo=github&logoColor=f2efe9&labelColor=ff3b5c" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/mohaiminul-islam-shishir-9a645821b/"><img src="https://img.shields.io/badge/linkedin-connect-0e0e10?style=for-the-badge&logo=linkedin&logoColor=f2efe9&labelColor=ff3b5c" alt="LinkedIn" /></a>
   <a href="https://www.behance.net/mohaiminul"><img src="https://img.shields.io/badge/behance-designs-0e0e10?style=for-the-badge&logo=behance&logoColor=f2efe9&labelColor=ff3b5c" alt="Behance" /></a>
+  <a href="https://leetcode.com/u/user2086HD/"><img src="https://img.shields.io/badge/leetcode-solutions-0e0e10?style=for-the-badge&logo=leetcode&logoColor=f2efe9&labelColor=ff3b5c" alt="LeetCode" /></a>
+  <a href="https://www.facebook.com/dew.haven/"><img src="https://img.shields.io/badge/facebook-follow-0e0e10?style=for-the-badge&logo=facebook&logoColor=f2efe9&labelColor=ff3b5c" alt="Facebook" /></a>
+  <a href="https://www.youtube.com/@dew.rhythm"><img src="https://img.shields.io/badge/youtube-subscribe-0e0e10?style=for-the-badge&logo=youtube&logoColor=f2efe9&labelColor=ff3b5c" alt="YouTube" /></a>
   <a href="mailto:mohaiminul.islam.shishir@gmail.com"><img src="https://img.shields.io/badge/email-say_hello-0e0e10?style=for-the-badge&logo=gmail&logoColor=f2efe9&labelColor=ff3b5c" alt="Email" /></a>
 </p>
