@@ -60,11 +60,14 @@
   <img src="./assets/contact.svg?v=2" width="100%" alt="Let's build something — open to collaboration, interesting projects and new opportunities." />
 </a>
 
+<br />
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohaiminul-islam-shishir-9a645821b/"><img src="https://img.shields.io/badge/linkedin-connect-0e0e10?style=for-the-badge&logo=linkedin&logoColor=f2efe9&labelColor=ff3b5c" alt="LinkedIn" /></a>
-  <a href="https://www.behance.net/mohaiminul"><img src="https://img.shields.io/badge/behance-designs-0e0e10?style=for-the-badge&logo=behance&logoColor=f2efe9&labelColor=ff3b5c" alt="Behance" /></a>
-  <a href="https://leetcode.com/u/user2086HD/"><img src="https://img.shields.io/badge/leetcode-solutions-0e0e10?style=for-the-badge&logo=leetcode&logoColor=f2efe9&labelColor=ff3b5c" alt="LeetCode" /></a>
-  <a href="https://www.facebook.com/dew.haven/"><img src="https://img.shields.io/badge/facebook-follow-0e0e10?style=for-the-badge&logo=facebook&logoColor=f2efe9&labelColor=ff3b5c" alt="Facebook" /></a>
-  <a href="https://www.youtube.com/@dew.rhythm"><img src="https://img.shields.io/badge/youtube-subscribe-0e0e10?style=for-the-badge&logo=youtube&logoColor=f2efe9&labelColor=ff3b5c" alt="YouTube" /></a>
-  <a href="mailto:mohaiminul.islam.shishir@gmail.com"><img src="https://img.shields.io/badge/email-say_hello-0e0e10?style=for-the-badge&logo=gmail&logoColor=f2efe9&labelColor=ff3b5c" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/mohaiminul-islam-shishir-9a645821b/"><img src="./assets/links/linkedin.svg" width="180" alt="LinkedIn" /></a>
+  <a href="https://www.behance.net/mohaiminul"><img src="./assets/links/behance.svg" width="180" alt="Behance" /></a>
+  <a href="https://leetcode.com/u/user2086HD/"><img src="./assets/links/leetcode.svg" width="180" alt="LeetCode" /></a>
+  <br />
+  <a href="https://www.facebook.com/dew.haven/"><img src="./assets/links/facebook.svg" width="180" alt="Facebook" /></a>
+  <a href="https://www.youtube.com/@dew.rhythm"><img src="./assets/links/youtube.svg" width="180" alt="YouTube" /></a>
+  <a href="mailto:mohaiminul.islam.shishir@gmail.com"><img src="./assets/links/email.svg" width="180" alt="Email" /></a>
 </p>
