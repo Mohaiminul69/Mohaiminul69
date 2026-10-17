@@ -57,7 +57,7 @@
 <br />
 
 <a href="https://mohaiminul69.github.io/portfolio/">
-  <img src="./assets/contact.svg" width="100%" alt="Let's build something — open to collaboration, interesting projects and new opportunities." />
+  <img src="./assets/contact.svg?v=2" width="100%" alt="Let's build something — open to collaboration, interesting projects and new opportunities." />
 </a>
 
 <p align="center">
