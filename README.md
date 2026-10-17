@@ -60,9 +60,9 @@
   <img src="./assets/contact.svg?v=2" width="100%" alt="Let's build something — open to collaboration, interesting projects and new opportunities." />
 </a>
 
-<br />
-
 <p align="center">
+  <br />
+  <a href="https://mohaiminul69.github.io/portfolio/"><img src="./assets/links/portfolio.svg" width="180" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/mohaiminul-islam-shishir-9a645821b/"><img src="./assets/links/linkedin.svg" width="180" alt="LinkedIn" /></a>
   <a href="https://www.behance.net/mohaiminul"><img src="./assets/links/behance.svg" width="180" alt="Behance" /></a>
   <a href="https://leetcode.com/u/user2086HD/"><img src="./assets/links/leetcode.svg" width="180" alt="LeetCode" /></a>
