@@ -1,11 +1,10 @@
-<a href="https://github.com/Mohaiminul69/portfolio-v2">
+<a href="https://mohaiminul69.github.io/portfolio/">
   <img src="./assets/hero.svg" width="100%" alt="Mohaiminul Islam Shishir — full-stack developer building web, mobile and backend apps" />
 </a>
 
 <p align="center">
   <a href="https://github.com/Mohaiminul69?tab=repositories"><img src="https://img.shields.io/badge/./view--projects-ff3b5c?style=for-the-badge&labelColor=0e0e10" alt="View projects" /></a>
-  <a href="https://github.com/Mohaiminul69/portfolio-v2"><img src="https://img.shields.io/badge/portfolio-v2-0e0e10?style=for-the-badge&labelColor=ff3b5c" alt="Portfolio v2" /></a>
-  <a href="https://github.com/Mohaiminul69/portfolio"><img src="https://img.shields.io/badge/portfolio-v1-0e0e10?style=for-the-badge&labelColor=26262a" alt="Portfolio v1" /></a>
+  <a href="https://mohaiminul69.github.io/portfolio/"><img src="https://img.shields.io/badge/./portfolio-0e0e10?style=for-the-badge&labelColor=26262a" alt="Portfolio" /></a>
   <img src="https://komarev.com/ghpvc/?username=Mohaiminul69&label=visitors&color=ff3b5c&style=for-the-badge" alt="Profile visitors" />
 </p>
 
